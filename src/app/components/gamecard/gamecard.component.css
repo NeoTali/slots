@@ -1,0 +1,9 @@
+.cirsa-card {
+    padding: 2px;
+    max-width: 48px;
+}
+
+.cirsa-card-image {
+    margin-bottom: -5px;
+    background-size: cover;
+}

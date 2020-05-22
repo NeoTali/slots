@@ -1,0 +1,9 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+
+  .example-sidenav {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+  }
